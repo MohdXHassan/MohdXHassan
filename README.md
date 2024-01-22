@@ -31,5 +31,5 @@
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MohdXHassan/contributions?format=svg&private=false) 
 
 <br>
-<p align="center">![GitHub streak stats](https://streak-stats.demolab.com/?user=MohdXHassan&theme=gotham)  </p>
+<p align="center"> ![GitHub streak stats](https://streak-stats.demolab.com/?user=MohdXHassan&theme=gotham)  </p>
 
