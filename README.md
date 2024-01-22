@@ -2,7 +2,8 @@
 <p align="center" >welcome to my Github Profile </p>
 
 
-<img width = "1000" src = "https://github.com/MohdXHassan/MohdXHassan/assets/46120048/14dd20dd-1a52-4a1a-a09c-15ed1b2bd774"/>
+
+https://github.com/MohdXHassan/MohdXHassan/assets/46120048/14dd20dd-1a52-4a1a-a09c-15ed1b2bd774
 
 
 
