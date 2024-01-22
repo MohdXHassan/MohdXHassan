@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Hassan
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator]<img width="1000" alt="Screenshot 2024-01-21 at 11 00 43 PM" src="https://github.com/MohdXHassan/MohdXHassan/assets/46120048/eb1d2ac3-23ff-42da-b9ee-cfd832b97ce6">
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
