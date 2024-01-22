@@ -1,7 +1,7 @@
 <p align="center" > Hi there 👋, my name is Hassan </p>
 <p align="center" >welcome to my Github Profile </p>
 
-<img src="https://github.com/MohdXHassan/MohdXHassan/assets/46120048/4fa4b5ca-8d54-4933-93f6-a7963c6f7de8" width="800" />
+<img src="https://github.com/MohdXHassan/MohdXHassan/assets/46120048/4fa4b5ca-8d54-4933-93f6-a7963c6f7de8" width="1000" />
 
 
 
