@@ -21,6 +21,8 @@ Skills: C /C++ / Java / Protopie / Docker / Selenium / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdXHassan&show_icons=true)  
 
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MohdXHassan/contributions?format=svg&private=false)  
+
 ![GitHub metrics](https://metrics.lecoq.io/MohdXHassan)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MohdXHassan)  
