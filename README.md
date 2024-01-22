@@ -22,6 +22,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdXHassan&theme=gotham" alt="h-sm" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=MohdXHassan&theme=gotham" alt="h-sm" />
+ <img src ="https://streak-stats.demolab.com/?user=MohdXHassan&theme=gotham"/>  
 </p>
 
 <p align="center">
@@ -31,5 +32,5 @@
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MohdXHassan/contributions?format=svg&private=false) 
 
 <br>
-<p align="center"> ![GitHub streak stats](https://streak-stats.demolab.com/?user=MohdXHassan&theme=gotham)  </p>
+
 
