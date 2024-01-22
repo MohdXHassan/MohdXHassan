@@ -32,5 +32,5 @@
 <br>
 ![GitHub metrics](https://metrics.lecoq.io/MohdXHassan)  
 <br>
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MohdXHassan)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MohdXHassan&theme=gotham)  
 
