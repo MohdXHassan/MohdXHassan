@@ -3,7 +3,7 @@
 
 
 
- <img src="https://imgur.com/a/HytJDJQ.gif" width="300"/>
+ <img src="https://imgur.com/a/HytJDJQ" width="300"/>
 
 
 <p align="center" >Skills: C /C++ / Java / Protopie / Docker / Selenium / Python
