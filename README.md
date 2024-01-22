@@ -1,12 +1,14 @@
 ### Hi there 👋, my name is Hassan
 #### I am GitHub Readme Generator's creator
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: C /C++ / Java / Protopie / Docker / Selenium / Python
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Belle 2 
+- 🌱 I’m currently learning Selenium 
+- 😄 Pronouns: He/Him 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohdXHassan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-hassan-769083183//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mh0996917@gmail.com)  
@@ -18,8 +20,6 @@ Skills: C /C++ / Java / Protopie / Docker / Selenium / Python
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdXHassan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdXHassan&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MohdXHassan/contributions?format=svg&private=false)  
 
 ![GitHub metrics](https://metrics.lecoq.io/MohdXHassan)  
 
