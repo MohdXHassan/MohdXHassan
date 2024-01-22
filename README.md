@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-the-Slothh&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="330"/>
 </p>
 
-<p align="center" >![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MohdXHassan/contributions?format=svg&private=false) </p> 
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MohdXHassan/contributions?format=svg&private=false) 
 <br>
 <p align = "center">![GitHub metrics](https://metrics.lecoq.io/MohdXHassan)  </p>
 <br>
