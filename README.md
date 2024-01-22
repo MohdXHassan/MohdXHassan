@@ -14,7 +14,7 @@ https://github.com/MohdXHassan/MohdXHassan/assets/46120048/14dd20dd-1a52-4a1a-a0
 - 😄 Pronouns: He/Him </p>
 
 
-<div id="badges">
+<p align="center" <div id="badges">
   <a href="https://www.linkedin.com/in/mohammad-hassan-769083183/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -22,6 +22,7 @@ https://github.com/MohdXHassan/MohdXHassan/assets/46120048/14dd20dd-1a52-4a1a-a0
   <a href="mailto:mdh73053@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  </p>
  
 
 </div>
