@@ -1,15 +1,15 @@
 <p align="center" > Hi there 👋, my name is Hassan </p>
-#### welcome to my Github Profile
+<p align="center" >welcome to my Github Profile </p>
 
 <img width="1000" alt="Screenshot 2023-08-26 at 12 02 56 AM" src="https://github.com/MohdXHassan/MohdXHassan/assets/46120048/baa50ba2-cf50-476a-b8a3-af4303619d09">
 
 
 
-Skills: C /C++ / Java / Protopie / Docker / Selenium / Python
+<p align="center" >Skills: C /C++ / Java / Protopie / Docker / Selenium / Python
 
 - 🔭 I’m currently working on Belle 2 
 - 🌱 I’m currently learning Selenium 
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him </p> 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohdXHassan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-hassan-769083183)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mh0996917@gmail.com)  
