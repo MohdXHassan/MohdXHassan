@@ -2,10 +2,7 @@
 <p align="center" >welcome to my Github Profile </p>
 
 
-<video autoplay loop muted playsinline>
-  <source src="https://github.com/MohdXHassan/MohdXHassan/assets/46120048/14dd20dd-1a52-4a1a-a09c-15ed1b2bd774
-" type="video/mp4">
-</video>
+https://github.com/MohdXHassan/MohdXHassan/assets/46120048/14dd20dd-1a52-4a1a-a09c-15ed1b2bd774
 
 
 
