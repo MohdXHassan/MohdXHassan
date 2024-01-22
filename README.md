@@ -29,8 +29,7 @@
 </p>
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MohdXHassan/contributions?format=svg&private=false) 
+
 <br>
-![GitHub metrics](https://metrics.lecoq.io/MohdXHassan)  
-<br>
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MohdXHassan&theme=gotham)  
+<p align="center">![GitHub streak stats](https://streak-stats.demolab.com/?user=MohdXHassan&theme=gotham)  </p>
 
