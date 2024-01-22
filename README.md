@@ -46,6 +46,15 @@ https://github.com/MohdXHassan/MohdXHassan/assets/46120048/14dd20dd-1a52-4a1a-a0
 </p>
 
 
-<br>
+ <a href="https://github.com/MohdXHassan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/ZARIX1">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/AyanSanger">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  </a>
+
 
 
