@@ -18,9 +18,15 @@ Skills: C /C++ / Java / Protopie / Docker / Selenium / Python
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohdXHassan)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdXHassan)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-the-Slothh&theme=gotham" alt="h-sm" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sid-the-Slothh&theme=gotham" alt="h-sm" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdXHassan&show_icons=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-the-Slothh&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="330"/>
+</p>
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MohdXHassan/contributions?format=svg&private=false)  
 
