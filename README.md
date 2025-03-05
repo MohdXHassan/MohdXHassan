@@ -71,6 +71,7 @@ GROUP BY
 This dataset captures promotional activity touchpoints conducted across various channels, including Calls, Emails, Events, and Newsletters. The data is structured at the segment, sub-territory, and month level, providing a detailed view of engagement trends. Additionally, it includes key attributes such as Brand, Segments, Product Adoption, KV, and State level insights. 
  This dataset enables a comprehensive analysis of promotional effectiveness, customer engagement patterns, and the impact of marketing initiatives across different geographies and product categories, supporting strategic decision-making and performance optimization.
  Activity data contains HCP, Brand & Geography related fields.
+
 ---
 
 **Table Name:** `AZ_DE_PROD.LOCAL_BI_DSCI_GERMANY.TABLE_TP_DETAIL`  
