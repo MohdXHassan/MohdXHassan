@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Belle 2**
+- 🔭 Currently working on **ZS Associates**
 - 🌱 Learning **Selenium** automation
 - 💬 Ask me about **C/C++, Java, Python, Docker**
 - 😄 Pronouns: **He/Him**
