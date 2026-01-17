@@ -42,7 +42,7 @@
 
 <p>
     <a href="https://leetcode.com/u/mohdhassan/">
-    <img src="https://leetcard.jacoblin.cool/ZARIX1?theme=dark&ext=heatmap">
+    <img src="https://leetcard.jacoblin.cool/mohdhassan?theme=catppuccinMocha&font=Rubik&ext=contest">
     </a>
 </p>
 
