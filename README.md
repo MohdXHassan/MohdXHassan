@@ -41,7 +41,7 @@
 </h2>
 
 <p>
-    <a href="https://leetcode.com/ZARIX1/">
+    <a href="https://leetcode.com/u/mohdhassan/">
     <img src="https://leetcard.jacoblin.cool/ZARIX1?theme=dark&ext=heatmap">
     </a>
 </p>
