@@ -33,9 +33,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohdXHassan)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdXHassan&theme=gotham" alt="h-sm" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohdXHassan&theme=gotham" alt="h-sm" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohdXHassan&show_icons=true&locale=en&layout=compact&theme=gotham" alt="MohdXHassan" width="650"/>
  <img src ="https://streak-stats.demolab.com/?user=MohdXHassan&theme=gotham"/>  
 </p>
