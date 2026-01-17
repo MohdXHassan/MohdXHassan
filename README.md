@@ -1,8 +1,4 @@
-<p align="center">
-    <a href="https://github.com/MohdXHassan">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Hassan!👋;Creative%20Developer%20🚀;Problem%20Solver%20💡;Belle%202%20Contributor&font=Fira%20Code&center=true&width=640&height=45&color=00ff88&vCenter=true&pause=1000&size=30" />
-    </a>
-</p>
+
 
 <!--- Social Media Links -->
 <p align="center">
