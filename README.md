@@ -59,7 +59,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohdXHassan&theme=tokyonight" width="100%">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdXHassan&point=00ff88&title_color=00ff88&bg_color=0D1117&line=00ff88&hide_border=true&area=true&area_color=00ff88&color=00ff88">
     <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"></p>
-    <img src="https://raw.githubusercontent.com/MohdXHassan/MohdXHassan/output/github-snake-dark.svg" width="100%"><br>
 </p>
 
 <h3 style="color:#00ff88;">✍️ Random Dev Quote</h3>
